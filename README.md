@@ -2,4 +2,5 @@
 - 🛡️ I build quality guardrails for AI coding agents: separate reviewer agents, automated QA, and CI gates
 - 🧪 Strict TDD with automated code review: [tdd-autoreview-demo](https://github.com/abc123931/tdd-autoreview-demo)
 - 🔌 Slack as clean, LLM-ready context: [slack-context-mcp](https://github.com/abc123931/slack-context-mcp)
+- 🌱 Contributed a fix to [slack-edge](https://github.com/slack-edge/slack-edge) ([#25](https://github.com/slack-edge/slack-edge/pull/25))
 - 💬 Ask me about testing, code review, and QA for agent-written code
