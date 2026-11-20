@@ -17,10 +17,6 @@ AI エージェントがコードを書く前提で、品質が落ちない仕�
 - [**tdd-autoreview-demo**](https://github.com/abc123931/tdd-autoreview-demo) — 厳格な TDD と自動コードレビューで信頼を担保する開発ワークフローの雛形。
 - [**slack-context-mcp**](https://github.com/abc123931/slack-context-mcp) — Slack の会話を LLM が読みやすい文脈に整える MCP サーバー。
 
-## Open source
-
-- [pstack](https://github.com/michael-denyer/pstack-claude) — クラウド環境で設定が引き継がれない不具合を再現して報告（[#479](https://github.com/michael-denyer/pstack-claude/issues/479)）。
-
 ## Background
 
 - GameHint / assort — 2 人・4 人のチームで、企画・設計・実装・インフラ・運用までを主導。
